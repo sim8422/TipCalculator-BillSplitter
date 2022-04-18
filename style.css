@@ -238,7 +238,7 @@ button:hover {
   }
 
   .right-container {
-    margin: 15px 20px 20px 20px;
+    margin: 15px auto 20px auto;
     width: auto;
     height: auto;
   }
