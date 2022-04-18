@@ -230,7 +230,7 @@ button:hover {
     position: relative;
     top: 100px;
     left: 0%;
-    margin-right: 0%;
+    margin:auto;
     padding: 3px;
   }
   .left-container {
